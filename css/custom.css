@@ -1,0 +1,155 @@
+/* body  */
+
+.bg-about-color{
+    background-color: rgb(165, 218, 87);
+}
+
+.bg-cotact-color{
+    background-color: rgb(243, 148, 243);
+}
+
+.mt-5#about-main{
+    margin-top: 4.8rem !important;
+}
+
+.mb-5#about-main{
+    margin-bottom: 4.8rem !important;
+}
+
+/* nav bar */
+
+.heaight-navbar {
+    height: 13vh;
+}
+
+
+/* category-items */
+
+.bg-link-1st-gallery:hover {
+    background-color: #3abef3;
+    color: #fff;
+}
+
+.bg-link-2nd-gallery:hover {
+    background-color: rgb(230, 96, 96);
+    color: #fff;
+}
+
+.bg-link-3rd-gallery:hover {
+    background-color: rgb(226, 169, 63);
+    color: #fff;
+}
+
+.bg-link-about:hover {
+    background-color: rgb(165, 218, 87);
+    color: #fff;
+}
+
+.bg-link-contact:hover {
+    background-color: rgb(199, 30, 199);
+    color: #fff;
+}
+
+.bg-link-active-1st-gallery{
+    background-color: #3abef3;
+    color: #fff;
+}
+
+.bg-link-active-2nd-gallery {
+    background-color: rgb(230, 96, 96);
+    color: #fff;
+}
+
+.bg-link-active-3rd-gallery {
+    background-color: rgb(226, 169, 63);
+    color: #fff;
+}
+
+.bg-link-active-about {
+    background-color: rgb(165, 218, 87);
+    color: #fff;
+}
+
+.bg-link-active-contact {
+    background-color: rgb(199, 30, 199);
+    color: #fff;
+}
+
+
+/* main content */
+
+.bg-primary {
+    background: black !important;
+    opacity: 25%;
+}
+
+.info {
+    background: #232526;
+    background: linear-gradient(to top, #414345, #232526);
+    opacity: 25% !important;
+    transition: all 2s ease;
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -ms-transition: all 2s ease;
+    -o-transition: all 2s ease;
+}
+
+.info:hover {
+    background: #000000 !important;
+    background: linear-gradient(to top, #000000, #434343) !important;
+    opacity: 75% !important;
+}
+
+.grad:hover {
+    display: block;
+}
+
+.grad:hover h3 {
+    top: 20vh !important;
+}
+
+.grad:hover p {
+    display: block !important;
+}
+
+.bg-secondary {
+    background-color: #1d6480 !important;
+}
+
+.top-cus {
+    top: 25vh !important;
+}
+
+.top-paragraph {
+    top: 38vh;
+}
+
+/* form */
+
+.form-control:focus{
+    box-shadow: none;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+}
+
+
+/* footer:icon */
+
+.bi-twitter {
+    color: rgb(35, 160, 160);
+}
+
+.bi-google {
+    color: rgb(223, 56, 27);
+}
+
+.bi-linkedin {
+    color: rgb(10, 38, 192);
+}
+
+.bi-whatsapp {
+    color: rgb(25, 165, 20);
+}
+
+.bi-behance {
+    color: rgb(226, 120, 33);
+}
